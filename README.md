@@ -213,6 +213,6 @@ public class Adri {
 
 <div align="center">
   <b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b><br><br>
-  <i>“Primero hay que tener un 'por qué' para empezar a preocuparse por el 'cómo'” — Sh4d0w_Err0r</i><br><br>
+  <i>“Creando código limpio, seguro y escalable” — Sh4d0w_Err0r</i><br><br>
   <img src="Miniaturas/gif.gif" width="220" alt="Adri coding gif">
 </div>
