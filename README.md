@@ -119,73 +119,8 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%93%B9%20Mis%20mejores%20v%C3%ADdeos-7dcfff?style=for-the-badge&labelColor=1a1b26&color=7dcfff" alt="Vídeos" />
 </div>
 
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=1WzbYFq_xkQ">
-        <img src="Miniaturas/Comunidad.png" width="200" alt="Comunidad SH4D0W"><br>
-        <b>Comunidad SH4D0W X ANONYMATIC</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=LOZhHvAmoBI">
-        <img src="Miniaturas/AoC2025Java.png" width="200" alt="AoC Day01"><br>
-        <b>Advent of Code Day01</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=ZhYYXGVD7xA&t=619s">
-        <img src="Miniaturas/Curso_Java.jpg" width="200" alt="Curso Java Arrays"><br>
-        <b>✅ De 0 a Java #7 – Arrays</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=eyy8SxSaon0">
-        <img src="Miniaturas/Personalizacion_Kali.jpg" width="200" alt="Kali Linux"><br>
-        <b>Personalización de Kali Linux</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=Rh84eH2vq0I&list=PLdZNEUB9bY935wlLEYXX6GHj2COBU5ga3&index=2">
-        <img src="Miniaturas/Curso_Java.jpg" width="200" alt="Curso Java"><br>
-        <b>Curso de Java - Condicionales</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=0ysavvaKMOw&t=2s">
-        <img src="Miniaturas/Bot_Discord.jpg" width="200" alt="Bot Discord"><br>
-        <b>Bot de Discord Paso a Paso</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=eyy8SxSaon0">
-        <img src="Miniaturas/Generador_Contrasenas.jpg" width="200" alt="Generador"><br>
-        <b>Generador de contraseñas</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=zJ-rAZUoNMw">
-        <img src="Miniaturas/Verificar_Datos.jpg" width="200" alt="Verificar Datos"><br>
-        <b>Verificar datos con HTML CSS y JS</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=GWD-bA8Hn0s">
-        <img src="Miniaturas/Cafeteria.jpg" width="200" alt="Cafetería"><br>
-        <b>Cafetería (Proyecto)</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<!-- YOUTUBE-CARDS-START -->
+<!-- YOUTUBE-CARDS-END -->
 
 ---
 
