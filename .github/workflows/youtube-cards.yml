@@ -2,8 +2,11 @@ name: Update YouTube Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # diario a medianoche UTC
+  workflow_dispatch:        # ejecución manual
+
+permissions:
+  contents: write           # 👈 ¡Esto es lo que faltaba!
 
 jobs:
   build:
@@ -12,10 +15,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Generate YouTube Cards
         uses: DenverCoder1/readme-youtube-cards@main
         with:
-          channel_id: 'UCEI_tlLx1YTscFkO0Uh8uuQ'    # 👈 TU ID DE CANAL
+          channel_id: 'UCEI_tlLx1YTscFkO0Uh8uuQ'      # ← tu Channel ID
           max_videos: 6
           card_width: 250
           background_color: '#1a1b26'
@@ -26,11 +34,3 @@ jobs:
           author_email: 'adricoding647@gmail.com'
           commit_message: '🔄 Actualizar tarjetas de YouTube'
           readme_path: 'README.md'
-
-      # El siguiente paso lo hace automáticamente la acción, pero podemos forzarlo si queremos:
-      # (opcional) 
-      # - name: Push changes
-      #   uses: stefanzweifel/git-auto-commit-action@v5
-      #   with:
-      #     commit_message: '🤖 Actualizar vídeos de YouTube'
-      #     branch: main
