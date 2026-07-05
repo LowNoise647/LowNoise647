@@ -2,9 +2,8 @@ name: Update YouTube Cards
 
 on:
   schedule:
-    # Se ejecuta cada día a las 00:00 UTC (puedes cambiar el horario)
     - cron: '0 0 * * *'
-  workflow_dispatch:  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,20 +15,22 @@ jobs:
       - name: Generate YouTube Cards
         uses: DenverCoder1/readme-youtube-cards@main
         with:
-          channel_id: 'UCEI_tlLx1YTscFkO0Uh8uuQ'   # ← pon aquí tu Channel ID
-          max_videos: 6                   # cuántos vídeos mostrar
-          card_width: 250                 # ancho de cada tarjeta en px
-          background_color: '#1a1b26'     # tu color de fondo oscuro
+          channel_id: 'UCEI_tlLx1YTscFkO0Uh8uuQ'    # 👈 TU ID DE CANAL
+          max_videos: 6
+          card_width: 250
+          background_color: '#1a1b26'
           title_color: '#7dcfff'
           stats_color: '#bb9af7'
-          theme: 'dark'                   # ajusta el texto para modo oscuro
-          committer_username: 'LowNoise647'
-          committer_email: 'adricoding647@gmail.com'
+          lang: 'es'
+          author_name: 'LowNoise647'
+          author_email: 'adricoding647@gmail.com'
           commit_message: '🔄 Actualizar tarjetas de YouTube'
           readme_path: 'README.md'
 
-      - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: '🤖 Actualizar vídeos de YouTube'
-          branch: main
+      # El siguiente paso lo hace automáticamente la acción, pero podemos forzarlo si queremos:
+      # (opcional) 
+      # - name: Push changes
+      #   uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message: '🤖 Actualizar vídeos de YouTube'
+      #     branch: main

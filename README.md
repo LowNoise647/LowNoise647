@@ -119,8 +119,8 @@ public class Adri {
   <img src="https://img.shields.io/badge/%20-%F0%9F%93%B9%20Mis%20mejores%20v%C3%ADdeos-7dcfff?style=for-the-badge&labelColor=1a1b26&color=7dcfff" alt="Vídeos" />
 </div>
 
-<!-- YOUTUBE-CARDS-START -->
-<!-- YOUTUBE-CARDS-END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 ---
 
