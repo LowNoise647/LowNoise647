@@ -120,7 +120,12 @@ public class Adri {
 </div>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Creando un Ajedrez en Java desde 0 | Sin hablar | Parte 1](https://ytcards.demolab.com/?id=smjw-D1cUIs&title=Creando+un+Ajedrez+en+Java+desde+0+%7C+Sin+hablar+%7C+Parte+1&lang=es&timestamp=1782306276&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Creando un Ajedrez en Java desde 0 | Sin hablar | Parte 1")](https://www.youtube.com/watch?v=smjw-D1cUIs)
+[![Directo de programacion libre en JAVA](https://ytcards.demolab.com/?id=m35oHLDJwsQ&title=Directo+de+programacion+libre+en+JAVA&lang=es&timestamp=1780853588&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Directo de programacion libre en JAVA")](https://www.youtube.com/watch?v=m35oHLDJwsQ)
+[![Resolviendo ejercicios de Java en directo 🔥 | Exercism Java Track (Nivel real)](https://ytcards.demolab.com/?id=UN7mDWHmchg&title=Resolviendo+ejercicios+de+Java+en+directo+%F0%9F%94%A5+%7C+Exercism+Java+Track+%28Nivel+real%29&lang=es&timestamp=1779697047&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Resolviendo ejercicios de Java en directo 🔥 | Exercism Java Track (Nivel real)")](https://www.youtube.com/watch?v=UN7mDWHmchg)
+[![Resolviendo ejercicios de Java en directo 🔥 | Exercism Java Track (Nivel real)](https://ytcards.demolab.com/?id=vtGvFPZVbeY&title=Resolviendo+ejercicios+de+Java+en+directo+%F0%9F%94%A5+%7C+Exercism+Java+Track+%28Nivel+real%29&lang=es&timestamp=1779690086&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "Resolviendo ejercicios de Java en directo 🔥 | Exercism Java Track (Nivel real)")](https://www.youtube.com/watch?v=vtGvFPZVbeY)
+[![100 Suscriptores… y esto acaba de empezar](https://ytcards.demolab.com/?id=qTzldVKp2YY&title=100+Suscriptores%E2%80%A6+y+esto+acaba+de+empezar&lang=es&timestamp=1779564547&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "100 Suscriptores… y esto acaba de empezar")](https://www.youtube.com/watch?v=qTzldVKp2YY)
+[![PROGRAMANDO JUEGO EN DIRECTO - Aviso importante y colaborativo](https://ytcards.demolab.com/?id=pXlqjS8BpyE&title=PROGRAMANDO+JUEGO+EN+DIRECTO+-+Aviso+importante+y+colaborativo&lang=es&timestamp=1779097046&background_color=%231a1b26&title_color=%237dcfff&stats_color=%23bb9af7&max_title_lines=1&width=250&border_radius=5 "PROGRAMANDO JUEGO EN DIRECTO - Aviso importante y colaborativo")](https://www.youtube.com/watch?v=pXlqjS8BpyE)
 <!-- END YOUTUBE-CARDS -->
 
 ---
