@@ -133,7 +133,7 @@ public class Adri {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LowNoise647&theme=github-compact&bg_color=1a1b26&color=a9b1d6&line=7dcfff&point=bb9af7&area=true&hide_border=true" width="100%" alt="Gráfico de actividad"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?username=LowNoise647&theme=github-dark-blue&hide_border=true&background=1a1b26&stroke=7dcfff&ring=bb9af7&fire=ff79c6&currStreakLabel=c0caf5&sideLabels=a9b1d6&dates=565f89" width="55%" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com?user=LowNoise647&theme=github-dark-blue&hide_border=true&background=1a1b26&stroke=7dcfff&ring=bb9af7&fire=ff79c6&currStreakLabel=c0caf5&sideLabels=a9b1d6&dates=565f89" width="55%" alt="Racha de contribuciones"/>
 </div>
 
 ---
