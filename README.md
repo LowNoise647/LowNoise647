@@ -11,37 +11,21 @@
   <img src="https://img.shields.io/badge/%20-%20%C2%BFQui%C3%A9n%20Soy%3F-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="¿Quién Soy?" />
 </div>
 
-```java
-public class Adri {
-    private final String nombre = "Adrian";
-    private final String role = "Java Developer";
-    private final String[] languages = {"Java", "JS", "Python", "Bash"};
-    private final String[] passions = {"Clean Code", "Arquitectura", "Automatización", "Open Source"};
+---
 
-    public void aboutMe() {
-        System.out.println("👋 Hola, soy " + nombre);
-        System.out.println("💻 Rol: " + role);
-        System.out.println("🧠 Lenguajes: " + String.join(", ", languages));
-        System.out.println("🔥 Me apasiona: " + String.join(", ", passions));
-    }
-
-    public void dailyRoutine() {
-        while (true) {
-            code();
-            learn();
-            refactor();
-            commit();
-            drinkCoffee(); // ☕ combustible infinito
-        }
-    }
-
-    private void code() { /* ... */ }
-    private void learn() { /* ... */ }
-    private void refactor() { /* ... */ }
-    private void commit() { /* ... */ }
-    private void drinkCoffee() { /* ☕ */ }
-}
-```
+<a href="https://github.com/LowNoise647/LowNoise647">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LowNoise647/LowNoise647/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/LowNoise647/LowNoise647/main/light.svg">
+  </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/LowNoise647/LowNoise647/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
+</a>
 
 ---
 
