@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/%20-%20%C2%BFQui%C3%A9n%20Soy%3F-bb9af7?style=for-the-badge&labelColor=1a1b26&color=bb9af7" alt="¿Quién Soy?" />
 </div>
 
----
-
 <a href="https://github.com/LowNoise647/LowNoise647">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LowNoise647/LowNoise647/main/dark.svg">
@@ -134,10 +132,3 @@
 ¿Charlamos? ¿Una colaboración? ¿Un reto de código?  
 **Email:** `adricoding647@gmail.com`
 
----
-
-<div align="center">
-  <b>Gracias por pasar por mi perfil. El código nunca duerme ⚡</b><br><br>
-  <i>“Creando código limpio, seguro y escalable” — Sh4d0w_Err0r</i><br><br>
-  <img src="Miniaturas/gif.gif" width="220" alt="Adri coding gif">
-</div>
